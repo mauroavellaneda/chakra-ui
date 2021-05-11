@@ -1,5 +1,17 @@
 # Change Log
 
+## 1.6.2
+
+### Patch Changes
+
+- [`8dc0622e8`](https://github.com/chakra-ui/chakra-ui/commit/8dc0622e8a5acda768c694d2daa28a4181d829ad)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Fix issue where
+  typeaheaad overrides input keydown
+
+- Updated dependencies
+  [[`c1f8d90ad`](https://github.com/chakra-ui/chakra-ui/commit/c1f8d90ad7ebd9594e9888010170cda7969f0ded)]:
+  - @chakra-ui/transition@1.3.1
+
 ## 1.6.1
 
 ### Patch Changes
